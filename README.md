@@ -16,6 +16,7 @@
 
 - 点右上角 **Fork** 按钮复制本 GitHub 仓库
 - 在自己的项目中，点上方 **Actions** 选项卡进入项目 GitHub Actions 页面, 点击绿色按钮 “**I understand my workflows, go ahead and enable them**” 开启自动提交功能
+- 修改 [ci.yml 文件的第 19、20 行](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L19) 为自己的 GitHub 账号和昵称
 - (可选) 你可以通过修改 [ci.yml 文件的第 8 行](https://github.com/justjavac/auto-green/blob/master/.github/workflows/ci.yml#L8)来调整频率
 
 计划任务语法有 5 个字段，中间用空格分隔，每个字段代表一个时间单位。
