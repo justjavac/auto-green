@@ -12,6 +12,8 @@
 
 > 曾经保持了 200 多天全绿，但是冷落了女朋友，一直绿到现在。
 
+有关Github Action 的原理，可查看官方文档[Github Action 简介](https://docs.github.com/cn/actions/learn-github-actions/introduction-to-github-actions)
+
 ## 使用
 
 - 点右上角 **Use this template** 按钮复制本 GitHub 仓库，**:warning: 千万不要 Fork，因为 fork 项目的动态并不会让你变绿 :warning:**
